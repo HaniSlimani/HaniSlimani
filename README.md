@@ -1,7 +1,8 @@
 # Hani Slimani
 
-Étudiant en L3 Informatique à Sorbonne Université.  
-En préparation d'un Master — Data, Sécurité ou DevOps.
+Je construis des systèmes pour comprendre comment ils fonctionnent — émulateurs, simulateurs, outils de cryptanalyse.
+Ce qui m'intéresse : ce qui se passe sous le capot.
+Actuellement en L3 Informatique à Sorbonne Université.
 
 ---
 
